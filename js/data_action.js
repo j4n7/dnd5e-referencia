@@ -16,7 +16,7 @@ data_action = [
     },
     {
         title: "Atacar desarmado [2024]",
-        icon: "crossed-swords",
+        icon: "fist",
         subtitle: "Ataque con arma o desarmado",
         description: "Realizar daño, agarrar o empujar",
         reference: "PHB'24, pgs. X.",
@@ -156,7 +156,7 @@ data_action = [
     },
     {
         title: "Influir [2024]",
-        icon: "magnifying-glass",
+        icon: "lips",
         subtitle: "",
         description: "Intentas que un monstruo haga algo",
         reference: "PHB'14, pg. X.",
@@ -185,7 +185,7 @@ data_action = [
     },
     {
         title: "Estudiar [2024]",
-        icon: "magnifying-glass",
+        icon: "bookmarklet",
         subtitle: "",
         description: "Dedicas tu atención a obtener información",
         reference: "PHB'14, pg. X.",
