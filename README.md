@@ -3,13 +3,13 @@ dnd5e-referencia
 
 Referencia Rápida para D&amp;D 5e
 
-https://cylira.github.io/dnd5e-referencia/
-
 Icons
 ==============
-
 Iconos por: http://game-icons.net/
 
+Original en español
+==============
+https://cylira.github.io/dnd5e-referencia/
 
 Original en inglés
 ==============
